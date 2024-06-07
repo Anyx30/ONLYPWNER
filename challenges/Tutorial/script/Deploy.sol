@@ -1,4 +1,4 @@
-pragma solidity 0.8.19;
+pragma solidity ^0.8.19;
 
 import {Tutorial} from "../src/Tutorial.sol";
 import {Script} from "forge-std/Script.sol";

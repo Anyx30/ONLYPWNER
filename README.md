@@ -9,5 +9,5 @@
 4. Run solver
 
 ```bash
-forge script Solve --broadcast --with-gas-price=0
+forge script Solve.s.sol --broadcast --with-gas-price=0
 ```

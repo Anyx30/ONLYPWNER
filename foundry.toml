@@ -1,5 +1,5 @@
 [profile.default]
-solc_version = "0.8.19"
+solc_version = "0.8.20"
 
 [profile.freebie]
 src = "challenges/Freebie/src"
@@ -44,7 +44,7 @@ src = "challenges/Payday/src"
 script = "challenges/Payday/script"
 
 [profile.13th-airdrop]
-solc_version = "0.8.13"
+solc_version = "0.8.20"
 src = "challenges/13thAirdrop/src"
 script = "challenges/13thAirdrop/script"
 
