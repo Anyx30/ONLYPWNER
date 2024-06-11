@@ -1,4 +1,4 @@
-pragma solidity 0.8.19;
+pragma solidity ^0.8.19;
 
 interface IVault {
     event Deposit(address indexed user, uint256 amount);
