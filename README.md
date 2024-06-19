@@ -7,8 +7,6 @@ COMPETE ON THE LEADERBOARD, AND JOIN A COMMUNITY OF SECURITY RESEARCHERS AND ENT
 ```bash
 USER = 0x34788137367a14f2C4D253F9a6653A93adf2D234
 
-Challenges solved till now:
-1. Tutorial
-2. Freebie
-3. Reverse Rugpull
+Challenges solved till now: 3
+
 ```
