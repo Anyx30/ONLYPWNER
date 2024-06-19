@@ -1,13 +1,14 @@
-## How to setup environment and add solver for a new challenge
+## Onlypwner
 
-1. Download the challenge and extract to `challenges` folder, for example, `challenges/Tutorial/...`
-
-2. Update `.env` and `foundry.toml` files for new challenge
-
-3. Add your own `Solve` script in `script` folder
-
-4. Run solver
+WITH ONLYPWNER YOU CAN
+ELEVATE YOUR EVM EXPERTISE WITH HANDS-ON CHALLENGES,
+COMPETE ON THE LEADERBOARD, AND JOIN A COMMUNITY OF SECURITY RESEARCHERS AND ENTHUSIASTS.
 
 ```bash
-forge script Solve.s.sol --broadcast --with-gas-price=0
+USER = 0x34788137367a14f2C4D253F9a6653A93adf2D234
+
+Challenges solved till now:
+1. Tutorial
+2. Freebie
+3. Reverse Rugpull
 ```
