@@ -1,7 +1,7 @@
 pragma solidity ^0.8.20;
 
 import {IVault} from "./interfaces/IVault.sol";
-import {IERC20} from "openzeppelin-contracts/contracts/token/ERC20/IERC20.sol";
+import {IERC20} from "lib/openzeppelin-contracts/contracts/token/ERC20/IERC20.sol";
 
 contract Vault is IVault {
     address public override owner;
@@ -48,4 +48,5 @@ contract Vault is IVault {
 
         token.transfer(msg.sender, payoutAmount);
     }
+
 }
